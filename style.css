@@ -1,0 +1,26 @@
+.css-selector {
+  font-family: 'Oswald';
+  font-family: 'Open Sans';
+}
+
+h2 {
+  font-family: 'Oswald';
+  color: darkblue;
+  margin:10px 50px 10px 50px
+}
+h1 {
+  font-family: 'Oswald';
+  color: darkblue;
+  margin:10px 50px 10px 50px
+}
+p {
+  font-family: 'Open Sans';
+  color: darkblue;
+  margin:10px 50px 10px 50px
+}
+body {
+  background-color:ivory;
+}
+img {
+  display: inline-block;
+}
