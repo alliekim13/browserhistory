@@ -22,5 +22,38 @@ body {
   background-color:ivory;
 }
 img {
-  display: inline-block;
+  float: left;
+  margin-right:10px;
+}
+
+#navbar {
+  list-style-type: none;
+}
+
+#navbar li {
+  display:inline;
+  font-family: 'Open Sans'
+}
+
+#navbar a {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.left {
+  float: left;
+  width:300px;
+  padding: 1em;
+}
+
+.center {
+  margin-left: 300px;
+  margin-right:300px;
+  padding: 1em;
+}
+
+.right {
+  float: right;
+  width:300px;
+  padding: 1em;
 }
